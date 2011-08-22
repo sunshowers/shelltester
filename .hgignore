@@ -1,0 +1,12 @@
+~$
+/bin/
+\.ncb$
+\.suo$
+\.sdf$
+\.opensdf$
+\.user$
+obj/
+Debug/
+Release/
+ipch/
+^Submissions/
